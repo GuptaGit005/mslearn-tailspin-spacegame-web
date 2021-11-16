@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool:
+pool: Ganesh
   vmImage: 'windows-latest'
 
 variables:
