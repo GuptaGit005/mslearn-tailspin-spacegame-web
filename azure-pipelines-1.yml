@@ -8,7 +8,6 @@ trigger:
 
 pool:
   name: Ganesh
-  demands: SpecialSoftware # exists check for SpecialSoftware
   vmImage: 'windows-latest'
 
 variables:
