@@ -7,8 +7,9 @@ trigger:
 - main
 
 pool:
-name: Ganesh
+  name: Ganesh
   vmImage: 'windows-latest'
+
 
 variables:
   solution: '**/*.sln'
